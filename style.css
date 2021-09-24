@@ -77,7 +77,7 @@ footer{
     padding: 17px;
     font-size: 1rem;
     font-weight: 500;
-    border-radius: 20px;
+    border-radius: 5px;
     border: dashed var(--color) 2px;
     text-align: center;
     text-decoration: none;  
