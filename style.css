@@ -56,7 +56,7 @@ footer{
 #userName{
     width: 100%;
     font-size: 1.5rem;
-    font-style: italic;
+    font-weight: 400;
     text-align: center;
     text-decoration: none;
     line-height: 1.25;
